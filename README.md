@@ -1,35 +1,40 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome,
+# Walkthrough - Love Running
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This walkthrough project was completed as part of my Diploma in Full Stack Software Development with [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/). The focus of the walkthrough was to put into practice **HTML** and **CSS**.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+Note: There is no live webpage of this project
 
-## Codeanywhere Reminders
+***
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Description of the 'Love Running' page
 
-`python3 -m http.server`
+## Languages
+- HTML
+- CSS
+- Markdown
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Tools and technologies
+- Git hub
+- Git
+- VScode with the following extensions:
+    - Markdown Preview Enhanced
+    - Markdown Preview Github Styling
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Challenges
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+| Problem | Challenge | Solution |
+| --- | --- | --- |
+| Nav list items appear in reverse order in the header after float right applied. | Without changing the list order, items to be ordered correctly while still maintaing a float right position. | Remove float:right and instead menu text-align:right and menu li display:inline-block. Credit to Stackoverflow question [Float:right reverses order of spans](https://stackoverflow.com/questions/4224476/floatright-reverses-order-of-spans).|
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Credits
 
-To log into the Heroku toolbelt CLI:
+Credit for the vast majority of both the code and content of this project is given to [Code Institue](https://codeinstitute.net). Instruction was provided in the form of videos which I then implemented using the tools listed above.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+There were however a number of challenges presented during the walkthrough where I was tasked with discovering how to code or style an element. In these instances the credit goes to myself unless otherwise stated in the challenge section above.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+This README was completed independently with the following credits:
 
----
-
-Happy coding!
+- CI logo by Code Institute.
+- https://www.markdownguide.org was highly useful in learning basic markdown syntaxs.
