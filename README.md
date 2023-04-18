@@ -22,6 +22,7 @@ Note: There is no live webpage of this project
     - Markdown Preview Enhanced
     - Markdown Preview Github Styling
     - Live Server
+- Font awesome
 
 ## Challenges
 
