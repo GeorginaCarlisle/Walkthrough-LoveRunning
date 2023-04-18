@@ -21,6 +21,7 @@ Note: There is no live webpage of this project
 - VScode with the following extensions:
     - Markdown Preview Enhanced
     - Markdown Preview Github Styling
+    - Live Server
 
 ## Challenges
 
