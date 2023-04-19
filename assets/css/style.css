@@ -179,3 +179,14 @@ hr {
     height: 100%;
     border-radius: 50%;
 }
+
+/* Meeting Times */
+
+#times {
+    background-image: url('../images/meetings-background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
