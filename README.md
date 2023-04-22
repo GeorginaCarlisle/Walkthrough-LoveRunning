@@ -30,6 +30,7 @@ Note: There is no live webpage of this project
 | --- | --- | --- |
 | Nav list items appear in reverse order in the header after float right applied. | Without changing the list order, items to be ordered correctly while still maintaing a float right position. | Remove float:right and instead menu text-align:right and menu li display:inline-block. Credit to Stackoverflow question [Float:right reverses order of spans](https://stackoverflow.com/questions/4224476/floatright-reverses-order-of-spans).|
 | styling code for left-about-heading and right-about-heading are virtually the same with only 1 difference. | Tidy up styling code to remove repetition | Currently exploring solution. |
+| Following walkthrough responsive changes to the menu won't work as my menu is styled differently. | At screens less that 950px nav list items to be positioned under the love running logo. | Within the media query style #menu clear:left (to stop the browser bringing the list items up) and text-align:right (to create a better balance). |
 
 ## Credits
 
